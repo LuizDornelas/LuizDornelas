@@ -2,9 +2,9 @@
 
 ## About
 - **Currently working as Technical Support Assistant in Winover Contact Center**
-- **Studying System Analysis and Development, and i'm currently in the 3° semester**
+- **Studying System Analysis and Development, and i'm currently in the 4° semester (the last)**
 
-- 📖 **System Analysis and Development**\
+- 📖 **System Analysis and Development**
 - 📆 **2020 - 2021**
 - 📍  **University of Mogi das Cruzes**
 
