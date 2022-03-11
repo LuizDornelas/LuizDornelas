@@ -7,7 +7,7 @@
 ```kotlin
 object **Luiz** {
  val name = "Luiz Henrique da Silva Dornelas"
- val job = "Technical Support Assistant at Winover Contact Center"
+ val job = "Support Analyst at Winover Contact Center"
  val formation = "System Analysis and Development"
  
  val primarySkillset = "Learn fast, dedicated to the goals"
