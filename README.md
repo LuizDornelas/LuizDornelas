@@ -7,26 +7,34 @@
 ```kotlin
 object **Luiz** {
  val name = "Luiz Henrique da Silva Dornelas"
- val job = "Support Analyst at Winover Contact Center"
+ val job = "Support Supervisor at Winover Contact Center"
  val formation = "System Analysis and Development"
  
- val primarySkillset = "Learn fast, dedicated to the goals"
- val languages = listOf("C#", "Java", "Python", "PHP", "HTML5", "CSS3", "PostgreSQL" , "Mysql") 
+ val primarySkillset = "Proactive, determined, innovative"
+ val languages = listOf("Python", "Microsoft SQL Server", "PostgreSQL" , "Mysql") 
 
 }
 ```
 
-## **GitHub Stats**
+<h2 align="left">I code with</h2>
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDornelas&theme=dracula&hide_langs_below=1" />
-</a>
+###
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuizDornelas&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+</div>
 
-[linkedin]: https://www.linkedin.com/in/luiz-henrique-da-silva-dornelas-0445021b5/
+###
+
+[linkedin]: https://www.linkedin.com/in/luizdornelaz/
 <br>
 
 👔 [linkedin][linkedin]
